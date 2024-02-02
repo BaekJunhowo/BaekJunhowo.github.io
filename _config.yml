@@ -1,7 +1,7 @@
 # theme: plainwhite
-title: Kunyoung Lee (CV)
+title: Junho Baek (CV)
 author: KYL92
-email: guy9284@gmail.com
+email: dolly21cc@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   A Docs Site For Curriculum Vitae
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -19,13 +19,13 @@ sass:
   #   - id: 838177043c474405bcbc09826a13153b
 
 plainwhite:
-  name: Kunyoung Lee
+  name: Junho Baek
   tagline: Ph.D. Researcher in AI, Machine Learning, Affective Computing, etc.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio2.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     - home
@@ -34,8 +34,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: KYL92
-    email: guy9284@gmail.com
-    github:  KYL92
+    email: dolly21cc@gmail.com
+    github:  BaekJunhowo
     youtube: /@user-jf9ru4vb3q
     # linkedIn: KYL92
     #dribbble: jekyll
@@ -60,7 +60,7 @@ plainwhite:
     - title: Demo
       url: http://kyl92.github.io/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
     - title: Posts
-      url: 
+      url:
 
     # - title: Home
     #   url: "http://127.0.0.1:4000"
