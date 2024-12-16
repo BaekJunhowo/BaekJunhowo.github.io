@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 date:   2024-12-16
 ---
 
