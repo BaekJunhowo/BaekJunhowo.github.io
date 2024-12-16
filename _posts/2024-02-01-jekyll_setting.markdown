@@ -82,8 +82,6 @@ remote 저장소(레포)에 kyl92 clone 한 로컬 레포 올리기
  **3) 자신의 github 레포 웹페이지 가서 아래 처럼 설정하면 페이지가 올라감, 이후 자신의 로컬에서 커밋해서 remote에 푸쉬하면 업데이트된 코드로 블로그가 빌드됨.
 (jekyll이 정적 페이지 기반이라는 것은 빌드 후 페이지가 업로드 또는 업데이트 되기 때문)**
 
-![Untitled](./post2
-/Untitled%204.png)
 
 ## 3. 홈페이지 관리를 위한 속성 가이드 (스터디용 템플릿에서 CV관리, 포스팅 까지만 다룸)
 
@@ -158,6 +156,3 @@ social_links:
 ```
 
 [index.md](http://index.md) 는 맨처음 홈 html을 나타냄(즉, [username.github.io](http://username.github.io) 도메인 접속 시 화면)
-
-![Untitled](./post2
-/Untitled%205.png)
