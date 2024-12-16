@@ -29,7 +29,7 @@ I work on overcoming instability and noisy data of Affective computing in the wi
 
 ---
 
-# Publications [[Google Scholar Profile](https://scholar.google.co.kr/citations?user=lU9NpJUAAAAJ&hl=en)]
+# Publications [[Google Scholar Profile](https://scholar.google.co.kr/citations?user=dKZARGcAAAAJ&hl=ko)]
 
 **[C#]: Conference, [J#]: Journal, [W#]: workshops (#: Count)**
 
