@@ -3,8 +3,6 @@ layout: post
 date:   2024-12-16
 ---
 
-# Welcome!
-
 I work on overcoming instability and noisy data of Affective computing in the wild environment. Throughout my research, I have studied various kinds of topics to help AI deal with real-world problems in emotion recognition. Specifically, I am interested in advancing AI to better inference facial expression recognition and physiological signal sensing, such as in remote photoplethysmography and breathing rate.
 
 ### Interests
