@@ -182,3 +182,5 @@ I work on overcoming instability and noisy data of Affective computing in the wi
 **[대검찰청(SPO)] AI를 이용한 차량번호 인식 기법 연구, [Project Manager]**,  *Mar. 2021 ~ Dec. 2021*  
 **[기산전자] Deep Learning 기반 PC OCR 엔진 기술 개발, [Project Manager]**  *Mar. 2020 ~ Jun. 2020*  
 > 
+
+---
