@@ -21,7 +21,7 @@ I work on overcoming instability and noisy data of Affective computing in the wi
 
 ---
 
-# Publications [[Google Scholar Profile](https://scholar.google.co.kr/citations?user=dKZARGcAAAAJ&hl=ko)]
+# Publications [[Google Scholar Profile](https://scholar.google.co.kr/citations?user=dKZARGcAAAAJ&hl=ko)] {#publications}
 
 ### 2025
 
@@ -43,7 +43,7 @@ I work on overcoming instability and noisy data of Affective computing in the wi
 
 ---
 
-# **Research Projects**
+# **Research Projects** {#research-projects}
 
 ## Grant
 
@@ -53,7 +53,7 @@ I work on overcoming instability and noisy data of Affective computing in the wi
 
 ---
 
-# Patents [[pr.smu.ac.kr](https://pr.smu.ac.kr/property/%EB%93%B1%EB%A1%9D%ED%8A%B9%ED%97%88)]
+# Patents [[pr.smu.ac.kr](https://pr.smu.ac.kr/property/%EB%93%B1%EB%A1%9D%ED%8A%B9%ED%97%88)] {#patents}
 
 ### Patent Registration
 
