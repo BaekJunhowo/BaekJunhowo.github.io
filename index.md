@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2024-12-16
+date:   2025-04-04
 ---
 
 I've been working on using AI to tackle real-world problems. Most of my research has focused on predicting health-related indicators from physiological signals using AI. I’ve also explored biometric authentication in VR environments, and I'm especially interested in building AI services that are centered around real users and their experiences.
