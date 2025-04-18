@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: post
 lang: ko
 permalink: /resume/ko/
 date: 2025-04-18
