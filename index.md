@@ -17,9 +17,14 @@ AI를 활용해 실제 문제를 해결하는 연구를 진행하고 있습니�
 
 ### 🎓학력
 
-> **상명대학교 일반대학원 지능정보공학과 석사과정**  *2022년 9월 ~ 2024년 8월*  
-**논문 주제**: A study on the biometric authentication method using infrared periocular images captured in head-mounted display  
-**지도 교수**: [이의철](https://pr.smu.ac.kr/people/professor)  
+> **상명대학교 대학원 지능정보공학과 석사 졸업**
+*2022년 9월 ~ 2024년 8월*  
+**논문 주제**: *A study on the biometric authentication method using infrared periocular images captured in head-mounted display*  
+**지도교수**: [이의철](https://pr.smu.ac.kr/people/professor)  
+> 
+
+> **상명대학교 지능·데이터융합학부 휴먼지능정보공학전공 학사 졸업**
+*2017년 3월 ~ 2022년 8월*  
 > 
 
 ---

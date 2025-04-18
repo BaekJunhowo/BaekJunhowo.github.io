@@ -15,10 +15,15 @@ I've been working on using AI to tackle real-world problems. Most of my research
 
 ### Education
 
-> **M.S., in Graduate School of Department of AI & Informatics, Sangmyung University, Seoul, Korea.**  *Sep. 2022 – Aug. 2024*  
+> **M.S. in AI & Informatics, Graduate School, Sangmyung University, Seoul, Korea.**
+*Sep. 2022 – Aug. 2024*  
 **Thesis**: A study on the biometric authentication method using infrared periocular images captured in head-mounted display  
 **Adviser**: [Eui Chul Lee](https://pr.smu.ac.kr/people/professor)  
 > 
+
+> **B.S. in Human-Centered Artificial Intelligence, Sangmyung University, Seoul, Korea.**
+*Mar. 2017 – Aug. 2022*
+>
 
 ---
 
