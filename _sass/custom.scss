@@ -1,6 +1,12 @@
-.publication-entry {
+.education-entry {
+  margin-left: 1.5rem;
+  padding-bottom: 1.5rem;
   word-break: keep-all;
   overflow-wrap: break-word;
   white-space: normal;
   line-height: 1.6;
+}
+
+.education-entry p {
+  margin: 0.3em 0;
 }
