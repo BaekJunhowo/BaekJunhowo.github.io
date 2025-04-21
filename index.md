@@ -2,7 +2,7 @@
 layout: post
 lang: ko
 permalink: /resume/ko/
-date: 2025-04-18
+date: 2025-04-21
 ---
 
 
