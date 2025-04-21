@@ -17,33 +17,10 @@ AI를 활용해 실제 문제를 해결하는 연구를 진행하고 있습니�
 
 ### 🎓 학력
 
-<div class="education-entry">
-  <p class="degree"><strong>상명대학교 대학원 지능정보공학과 석사 졸업</strong></p>
-  <p class="period"><em>2022년 9월 ~ 2024년 8월</em></p>
-  <p class="thesis"><strong>논문 제목:</strong> RGB Camera-Based Blood Pressure Measurement Using U-Net Basic Generative Model</p>
-  <p class="advisor"><strong>지도교수:</strong> <a href="https://pr.smu.ac.kr/people/professor">이의철</a></p>
-</div>
-
-[//]: # (> **상명대학교 대학원 지능정보공학과 석사 졸업** <br>)
-
-[//]: # (*2022년 9월 ~ 2024년 8월* <br>)
-
-[//]: # (<div class="publication-entry">)
-
-[//]: # (<strong>논문 제목</strong>: A study on the biometric authentication method using infrared periocular images captured in head-mounted display)
-
-[//]: # (</div>)
-
-[//]: # ()
-[//]: # (**지도교수**: [이의철]&#40;https://pr.smu.ac.kr/people/professor&#41;)
-
-[//]: # (<div class="publication-entry">)
-
-[//]: # ()
-[//]: # (**논문 주제**: *A study on the biometric authentication method using infrared periocular images captured in head-mounted display*)
-
-[//]: # ()
-[//]: # (</div>)
+> **상명대학교 대학원 지능정보공학과 석사 졸업** <br>
+*2022년 9월 ~ 2024년 8월* <br>
+**논문 주제**: *A study on the biometric authentication method using infrared periocular images captured in head-mounted display*
+**지도교수**: [이의철](https://pr.smu.ac.kr/people/professor)  
 
 > **상명대학교 지능·데이터융합학부 휴먼지능정보공학전공 학사 졸업** <br>
 *2017년 3월 ~ 2022년 8월*  
