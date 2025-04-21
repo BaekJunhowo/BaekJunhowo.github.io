@@ -2,6 +2,7 @@
 ---
 
 @import "plain";
+@import "custom"; // added junho
 
 {% if site.plainwhite.search %}
   @import "search";
@@ -11,10 +12,3 @@
   @import "toggle";
   @import "dark";
 {%- endif -%}
-
-.publication-entry {
-  word-break: keep-all;
-  overflow-wrap: break-word;
-  white-space: normal;
-  line-height: 1.6;
-}
