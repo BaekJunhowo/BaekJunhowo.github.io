@@ -20,7 +20,7 @@ sass:
 
 plainwhite:
   name: Junho Baek
-  tagline: M.S. Researcher in AI, Signal Processing, Biometric Authentication, etc.
+  tagline: ML Researcher in Recommendation Systems & Human Behavior Analysis
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -36,6 +36,7 @@ plainwhite:
     # twitter: KYL92
     email: dolly21cc@gmail.com
     github:  BaekJunhowo
+    linkedin: junho-baek-98295237b
 #    youtube: /@user-jf9ru4vb3q
     # linkedIn: KYL92
     #dribbble: jekyll
