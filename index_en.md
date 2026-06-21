@@ -17,7 +17,7 @@ I build systems that understand people — what they might want next, and what p
 ### Experience
 
 > **Farmkit R&D, Artificial Intelligence Engineer** <br>
-> *Sep. 2024 – Present* <br>
+> *Nov. 2025 – Present* <br>
 > Research and pipeline development for recommendation systems using e-commerce data.
 
 ### Education
